@@ -13,9 +13,7 @@ This application allows users to:
 
 ## 🚀 Demo
 
-**Live Application**: [YOUR_GITHUB_PAGES_URL]
-
-**Backend API**: [YOUR_HUGGINGFACE_SPACE_URL]
+**Live Application**: [https://ravijagunawardena.github.io/medtech-image-processor/frontend/]
 
 ## 🏗️ Architecture
 
