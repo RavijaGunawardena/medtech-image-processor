@@ -13,7 +13,7 @@ This application allows users to:
 
 ## 🚀 Demo
 
-**Live Application**: [https://ravijagunawardena.github.io/medtech-image-processor/frontend/]
+**Live Application**: https://ravijagunawardena.github.io/medtech-image-processor/frontend/
 
 ## 🏗️ Architecture
 
